@@ -1,0 +1,17 @@
+{
+    "name": "app/marmiwild",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thomas Aldaitz",
+            "email": "thomas.aldaitz@wildcodeschool.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.4"
+    }
+}
